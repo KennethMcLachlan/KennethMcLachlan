@@ -100,4 +100,22 @@ Unity's High Definition Rendering Pipeline (HDRP) is a post-processing tool desi
 <br/>
 <br/>
 
-View more on my [website](https://eveciana21.wixsite.com/lobogames)
+
+<img src="https://i.imgur.com/E3wA69f.png" align="left" width="400px"/> 
+
+# Legacy Project (New Unity Input System)
+The purpose of this project is to illustrate the process of transitioning code from the project's Legacy Code to the New Input System within an existing project.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+View more on my [website](https://kennethmclachlan11.wixsite.com/kennethmclachlan)
