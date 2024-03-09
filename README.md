@@ -46,9 +46,9 @@ This Virtual Reality Escape Room takes place in a boiler room and was created us
 <br/>
 <br/>
 
-<img src="https://i.imgur.com/xPx9TWf.png" align="left" width="400px"/> 
+<img src="https://i.imgur.com/optCCe3.png" align="left" width="400px"/> 
 
-# VR Escape Room
+# World Adventure
 This is an Escape Room created in XR within Unity using the Universal Render Pipeline.
 <br/>
 <br/>
