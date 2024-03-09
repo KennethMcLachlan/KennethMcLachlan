@@ -113,9 +113,6 @@ The purpose of this project is to illustrate the process of transitioning code f
 <br/>
 
 
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 View more on my [website](https://kennethmclachlan11.wixsite.com/kennethmclachlan)
