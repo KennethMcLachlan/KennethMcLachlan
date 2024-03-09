@@ -24,13 +24,8 @@ View more on my [website](https://kennethmclachlan11.wixsite.com/kennethmclachla
 <img src="https://i.imgur.com/aPcbYFx.png" align="left" width="400px"/> 
 
 # Guns And Ships AR
-This game was created for the "Jame Gam Christmas Edition" Game Jam.​
-<br/>
-<br/>
+This Augmented Reality (AR) application demonstrates Unity's AR capabilities in a user-friendly environment.<br/>
 
-Collaborated with a small team using Git.
-
-<br/>
 <br/>
 <br/>
 
