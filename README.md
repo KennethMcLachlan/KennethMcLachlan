@@ -35,7 +35,7 @@ Collaborated with a small team using Git.
 <br/>
 
 
-<img src="https://i.imgur.com/uaA2YE7.png" align="left" width="400px"/> 
+<img src="https://i.imgur.com/7v1hOsg.gif" align="left" width="400px"/> 
 
 # Galaxy Hero
 Galaxy Hero is an original 2D shoot em' up game created within Unity using C#.
