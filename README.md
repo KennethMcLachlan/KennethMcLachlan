@@ -74,7 +74,7 @@ Space Espionage is a 2.5D Platformer game made in Unity. An agent is dropped off
 <img src="https://i.imgur.com/RBRNHWb.png" align="left" width="400px"/> 
 
 # Level Design HDRP
-These level design projects were created to showcase the incredible features of the High Definition Render Pipeline and Universal Render Pipeline
+Unity's High Definition Rendering Pipeline (HDRP) is a post-processing tool designed to provide games with a high-definition visual quality, allowing them to attain the stunning aesthetic seen in titles for the PS5 and Xbox Series X.
 <br/>
 <br/>
 <br/>
