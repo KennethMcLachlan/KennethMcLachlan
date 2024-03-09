@@ -21,7 +21,7 @@ View more on my [website](https://kennethmclachlan11.wixsite.com/kennethmclachla
 ---
 ### 💾 My projects
 
-<img src="https://i.imgur.com/tSyEpnJ.png" align="left" width="400px"/> 
+<img src="https://i.imgur.com/aPcbYFx.png" align="left" width="400px"/> 
 
 # Christmas Game Jam
 This game was created for the "Jame Gam Christmas Edition" Game Jam.​
