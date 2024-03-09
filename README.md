@@ -28,22 +28,17 @@ This Augmented Reality (AR) application demonstrates Unity's AR capabilities in 
 <br/>
 <br/>
 
-Collaborated with a small team using Git.
-
 <br/>
 <br/>
 <br/>
 
 
-<img src="https://i.imgur.com/7v1hOsg.gif" align="left" width="400px"/> 
+<img src="https://i.imgur.com/lbZpWY3.png" align="left" width="400px"/> 
 
-# Galaxy Hero
-Galaxy Hero is an original 2D shoot em' up game created within Unity using C#.
+# VR Escape Room
+This Virtual Reality Escape Room takes place in a boiler room and was created using Unity's XR Interaction Toolkit.
 <br/>
 <br/>
-
-Original music created as well.
-
 <br/>
 <br/>
 <br/>
