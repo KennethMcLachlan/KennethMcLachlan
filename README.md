@@ -58,10 +58,10 @@ World Adventure is a mobile game app designed to utilize Unity's User Interface 
 <br/>
 
 
-<img src="https://i.imgur.com/GqTlUxf.png" align="left" width="400px"/> 
+<img src="https://i.imgur.com/YqzfN4c.png" align="left" width="400px"/> 
 
-# Galactic Defender
-This game was created with the intent on demonstrating my ability to use Cinemachine and Timeline using Unity 3D and C#.​
+# Space Espionage
+Space Espionage is a 2.5D Platformer game made in Unity. An agent is dropped off at an interstellar satellite to retrieve valuable information.​
 <br/>
 <br/>
 <br/>
