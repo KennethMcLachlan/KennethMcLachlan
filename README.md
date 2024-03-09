@@ -24,8 +24,10 @@ View more on my [website](https://kennethmclachlan11.wixsite.com/kennethmclachla
 <img src="https://i.imgur.com/aPcbYFx.png" align="left" width="400px"/> 
 
 # Guns And Ships AR
-This Augmented Reality (AR) application demonstrates Unity's AR capabilities in a user-friendly environment.<br/>
-
+This Augmented Reality (AR) application demonstrates Unity's AR capabilities in a user-friendly environment.
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 
