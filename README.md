@@ -49,7 +49,7 @@ This Virtual Reality Escape Room takes place in a boiler room and was created us
 <img src="https://i.imgur.com/optCCe3.png" align="left" width="400px"/> 
 
 # World Adventure
-This is an Escape Room created in XR within Unity using the Universal Render Pipeline.
+World Adventure is a mobile game app designed to utilize Unity's User Interface elements through the canvas.
 <br/>
 <br/>
 
