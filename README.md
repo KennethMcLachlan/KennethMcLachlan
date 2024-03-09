@@ -10,13 +10,13 @@ I'm a software engineer passionate about all things Unity, C#, XR, and game deve
 
 ### 📝 Check out my latest blog posts,
 <!-- BLOG-POST-LIST:START -->
-- [Legacy to New Input System](https://medium.com/@eveciana21/legacy-new-input-system-interactable-8b2da4011d43)
-- [C# Survival Guide: Lambda Expressions](https://medium.com/@eveciana21/c-survival-guide-lambda-expression-8a728b741c7e)
-- [Building VR Game on Android](https://medium.com/@eveciana21/building-your-vr-game-on-android-170c4321e358)
-- [Setting Up Gaze Interactions in VR](https://medium.com/@eveciana21/setting-up-gaze-interaction-40c10d3b3941)
-- [Adding Volumetric Fog](https://medium.com/@eveciana21/adding-fog-into-my-office-scene-42f2c9e96c8a)
+- [2.5D Platformer Ledge Grab w/ Animation](https://blog.devgenius.io/2-5d-platformer-ledge-grabbing-continued-37949972cde9)
+- [Unity VR Socket Interactables](https://medium.com/@kennethmclachlan11/unity-vr-socket-interactables-continued-099aa5a7ff50)
+- [Unity VR Grab Interactables](https://medium.com/@kennethmclachlan11/unity-vr-grab-interactables-ed1f6b039902)
+- [Swapping Action Maps w/ Unity New Input System](https://medium.com/@kennethmclachlan11/how-to-swap-action-maps-in-unity-fd9facaafcbc)
+- [Cinemachine Target Groups](https://medium.com/@kennethmclachlan11/cinemachine-target-group-1c66a42a1a3f)
 <!-- BLOG-POST-LIST:END -->
-View more on my [website](https://eveciana21.wixsite.com/lobogames)
+View more on my [website](https://kennethmclachlan11.wixsite.com/kennethmclachlan)
 
 ---
 ### 💾 My projects
