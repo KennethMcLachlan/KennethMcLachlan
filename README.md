@@ -33,7 +33,7 @@ This Augmented Reality (AR) application demonstrates Unity's AR capabilities in 
 <br/>
 
 
-<img src="https://i.imgur.com/4P8U0Tn.png" align="left" width="400px"/> 
+<img src="https://i.imgur.com/3oiBrSk.png" align="left" width="400px"/> 
 
 # VR Escape Room
 This Virtual Reality Escape Room takes place in a boiler room and was created using Unity's XR Interaction Toolkit
