@@ -83,10 +83,10 @@ Unity's High Definition Rendering Pipeline (HDRP) is a post-processing tool desi
 <br/>
 
 
-<img src="https://i.imgur.com/UoEXuml.png" align="left" width="400px"/> 
+<img src="https://i.imgur.com/E3wA69f.png" align="left" width="400px"/> 
 
-# Level Design URP
-These level design projects were created to showcase the incredible features of the High Definition Render Pipeline and Universal Render Pipeline
+# Galaxy Shooter
+"Galaxy Shooter" is a 2D top-down shooter video game I created as a solo project using the Unity Game Engine.
 <br/>
 <br/>
 <br/>
