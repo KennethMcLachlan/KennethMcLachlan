@@ -21,6 +21,18 @@ View more on my [website](https://kennethmclachlan11.wixsite.com/kennethmclachla
 ---
 ### 💾 My projects
 
+<img src="https://i.imgur.com/uubJTWn.jpeg" align="left" width="400px"/> 
+
+# Bot Breakout!
+This first-person shooter showcases Unity's AI State capabilities within an engaging game environment.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
 <img src="https://i.imgur.com/aPcbYFx.png" align="left" width="400px"/> 
 
 # Guns And Ships AR
@@ -36,7 +48,7 @@ This Augmented Reality (AR) application demonstrates Unity's AR capabilities in 
 <img src="https://i.imgur.com/3oiBrSk.png" align="left" width="400px"/> 
 
 # VR Escape Room
-This Virtual Reality Escape Room takes place in a boiler room and was created using Unity's XR Interaction Toolkit
+This Virtual Reality Escape Room takes place in a boiler room and was created using Unity's XR Interaction Toolkit.
 <br/>
 <br/>
 
