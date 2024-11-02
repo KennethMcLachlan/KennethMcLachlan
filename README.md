@@ -34,6 +34,8 @@ A VR minigame that utilizes Unity's Physx engine by shooting at targets in a fun
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 
 <img src="https://i.imgur.com/uubJTWn.jpeg" align="left" width="400px"/> 
