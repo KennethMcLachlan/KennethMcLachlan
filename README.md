@@ -31,6 +31,9 @@ A VR minigame that utilizes Unity's Physx engine by shooting at targets in a fun
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 
 
 <img src="https://i.imgur.com/uubJTWn.jpeg" align="left" width="400px"/> 
@@ -65,7 +68,6 @@ This Virtual Reality Escape Room takes place in a boiler room and was created us
 <br/>
 
 
-
 <br/>
 <br/>
 <br/>
@@ -79,14 +81,12 @@ World Adventure is a mobile game app designed to utilize Unity's User Interface 
 
 <br/>
 <br/>
-<br/>
 
 
 <img src="https://i.imgur.com/YqzfN4c.png" align="left" width="400px"/> 
 
 # Space Espionage
 Space Espionage is a 2.5D Platformer game made in Unity. An agent is dropped off at an interstellar satellite to retrieve valuable information.​
-<br/>
 <br/>
 <br/>
 <br/>
@@ -102,9 +102,7 @@ Unity's High Definition Rendering Pipeline (HDRP) is a post-processing tool desi
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
+
 
 
 <img src="https://i.imgur.com/E3wA69f.png" align="left" width="400px"/> 
@@ -116,13 +114,9 @@ Unity's High Definition Rendering Pipeline (HDRP) is a post-processing tool desi
 <br/>
 <br/>
 <br/>
-<br/>
 
 
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 
 <img src="https://i.imgur.com/NbTzdDT.png" align="left" width="400px"/> 
