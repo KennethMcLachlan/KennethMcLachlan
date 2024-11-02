@@ -21,6 +21,16 @@ View more on my [website](https://kennethmclachlan11.wixsite.com/kennethmclachla
 ---
 ### 💾 My projects
 
+<img src="https://imgur.com/a/HASNEAd" align="left" width="400px"/>
+# Archeryfest VR
+A VR minigame that utilizes Unity's Physx engine by shooting at targets in a fun festival environment
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 <img src="https://i.imgur.com/uubJTWn.jpeg" align="left" width="400px"/> 
 
 # Bot Breakout!
